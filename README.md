@@ -1,6 +1,6 @@
 # This is a Partial Guide to RDKit Molecular Descriptors: 
 
-To work on some example listed you can try to use the notebook available in this repository and run in [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hypowergravity/RDKitDescriptorExamples-/blob/main/Rdkit_Descriptors.ipynb) or jupyter notebook from the following [repository](https://github/hypowergravity/RDKitDescriptorExamples-/).
+To work on some example listed you can try to use the notebook available in this repository and run in [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hypowergravity/RDKitDescriptorExamples-/blob/main/Rdkit_Descriptors.ipynb) or jupyter notebook from the following [repository](www.github.com/hypowergravity/RDKitDescriptorExamples-).
 An example for saving the descriptors as a dataframe is provided in[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/hypowergravity/RDKitDescriptorExamples-/blob/main/Saving_Descriptor_data.ipynb)
 
 *A attempt to partially explore the RDKit Molecular Descriptors for cheminformatics, drug discovery, and QSAR modeling*
